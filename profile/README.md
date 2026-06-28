@@ -1,6 +1,7 @@
 # PyRecall
 
 > **Open-source tools for continual learning and modern AI fine-tuning.**
+> 
 > **Founded by Siddharth Lakshmi Narayanan, Atharv Ranjan, and Shreyas Gandhe**
 
 PyRecall is an open-source organization dedicated to developing tools that improve the fine-tuning of machine learning models. Our work focuses on reducing **catastrophic forgetting**, enabling developers and researchers to adapt models to new tasks while preserving previously learned knowledge.
